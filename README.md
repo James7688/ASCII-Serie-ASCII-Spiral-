@@ -1,7 +1,7 @@
-### Welcome to The ASCII Series!
+## Welcome to The ASCII Series!
 In this episode, I made Python generate a hypnotic spinning ASCII spiral — no effects, no animation software, just pure code and math.
 
-## Expected OUTPUT:
+### Expected OUTPUT:
 
 ```
 ++**@@@@@@@@@**++--                          --++*@@@@@@@**++-        -++**@@@@@
